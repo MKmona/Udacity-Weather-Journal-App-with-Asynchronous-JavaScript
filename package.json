@@ -1,0 +1,20 @@
+{
+  "name": "udacity-weather-journal-app-with-asynchronous-javascript",
+  "version": "1.0.0",
+  "description": "It is an asynchronous web app that uses Web API and user data to dynamically update the UI in a Weather Journal application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKmona/Udacity-Weather-Journal-App-with-Asynchronous-JavaScript.git"
+  },
+  "author": "Mona Khalaf monakhalaf2@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKmona/Udacity-Weather-Journal-App-with-Asynchronous-JavaScript/issues"
+  },
+  "homepage": "https://github.com/MKmona/Udacity-Weather-Journal-App-with-Asynchronous-JavaScript#readme"
+}
